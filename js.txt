@@ -14,3 +14,5 @@ Git remote Pop
 git hard head
 Stash file
 
+Stage 
+
