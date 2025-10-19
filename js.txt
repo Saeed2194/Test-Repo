@@ -1,3 +1,7 @@
 Js add in develop
+<<<<<<< HEAD
 Js add in sample
 sample js Added
+=======
+one more line add in
+>>>>>>> develop
