@@ -7,3 +7,4 @@ one more line add in
 
 git stash 
 
+git hard head
