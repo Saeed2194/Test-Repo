@@ -3,16 +3,4 @@ Js add in develop
 Js add in sample
 sample js Added
 
-one more line add in
-
-git stash
-
-git hard head
-
-Git remote Pop
-
-git hard head
-Stash file
-
-Stage 
 
