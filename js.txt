@@ -1,6 +1,12 @@
 Js add in develop
+<<<<<<< HEAD
 
 Js add in sample
 sample js Added
 
 
+=======
+testing js done
+
+This is Testing Branch
+>>>>>>> cf7efff (Testing Added)
