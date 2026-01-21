@@ -11,10 +11,17 @@ testing js done
 This is Testing Branch
 >>>>>>> cf7efff (Testing Added)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 24efa7a (Files Done)
 
 lorem
 lorem6541236
 
+<<<<<<< HEAD
+This is new
+>>>>>>> 24efa7a (Files Done)
+=======
 This is new
 >>>>>>> 24efa7a (Files Done)
